@@ -4,16 +4,12 @@
 [&#x213C;](#idxXXX)<br id="idx000">
 # {{ site.title }}
 
-This [GitHub Page](https://pages.github.com/) is hosted at [GitHub.com]({{ site.urlgithub }}).
-You can download the source either as a
-[ZIP]({{ site.baseurl }}/template.zip) file or a
-[TARBALL]({{ site.baseurl }}/template.tar.bz2) file.
-File [LISTINGS]({{ site.baseurl }}/000.html) are also available.
+Welcome abroad! I am {{ site.author }}, {{ site.address }}
 
-I am {{ site.author }}, {{ site.address }}
+Feel free to look around, I guess. All the important link will be put in the table of links!
 
 [&#x213C;](#)<br id="idx002">
-## Table Example
+## Table of Links 
 
 | [HOME]({{ site.baseurl }}/) | [LISTINGS]({{ site.baseurl }}/000.html) | [LINKS]({{ site.baseurl }}/LINKS/) |
 | [TIPS]({{ site.baseurl }}/TIPS/) | [TARBALL]({{ site.baseurl }}/template.tar.xz) | [ZIP File]({{ site.baseurl }}/template.zip) |
@@ -22,9 +18,10 @@ I am {{ site.author }}, {{ site.address }}
 [&#x213C;](#)<br id="idx003">
 ### More Links
 
+* [Original source of the header image](https://derpibooru.org/images/2844312)
 * [GitHub Page with no Jekyll Theme](https://doit.vlsm.org/001.html)
 * [Installing Jekyll on a VirtualBox](https://doit.vlsm.org/005.html)
-* [This is how me do it!](https://doit.vlsm.org/)
+* [This is how I copy someone to do it!](https://doit.vlsm.org/)
 
 [&#x213C;](#)<br id="idxXXX">
 

@@ -1,16 +1,16 @@
 version:          "0028a--05-Feb-2024"
 copyright:        "2021-2024"
-title:            "Jekyll: GitHub Page Template"
-author:           "J. Walker"
-address:          "Box 7, Mawitaan, Bangalla."
+title:            "SP241: Why Jekyll?"
+author:           "F. F. Yusuf"
+address:          "Somewhere in Jakarta."
 description:
-  This is a
-  GitHub Page Template description. 
-  See also tagline.
+  Welcome to my page for SP241! 
+  This page will contain all of my inner working of my mind
+  related to System Programming Class. 
 disclaimer:
-  I have spoken.
+  This site contains ponies.
 tagline:          "This is a GitHub Page Template tagline"
-keywords:         "jekyll, testing"
+keywords:         "jekyll, sp241, sp241-site, fawzan"
 navbarlinks:
 - navbar:         "Home"
   link:           "/"
@@ -34,9 +34,9 @@ lang:             "en-US"
 sitemap:          "true"
 markdown:         "kramdown"
 urlweb:           "https://template.vlsm.org/"
-urlcontact:       "TBA"
+urlcontact:       "no"
 urlgithub:        "https://github.com/yforku/template/"
-google_analytics: "G-KPSLWHN6H7"
+google_analytics: "Please Don't"
 plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
@@ -48,4 +48,3 @@ defaults:
     layout:  "default"
 github:
 - metadata
-
