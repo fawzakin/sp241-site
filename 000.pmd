@@ -86,15 +86,6 @@ title:  "GitHub Page Configuration Files"
 (> assets/css/style.css <)
 ```
 
-<br id="idx11">
-### _includes/google-analytics.html
-
-```
-{% raw %}
-(> _includes/google-analytics.html <)
-{% endraw %}
-```
-
 <br id="idx12">
 ### assets/scripts/includeScript.py 
 
