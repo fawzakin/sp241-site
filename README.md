@@ -1,5 +1,4 @@
-# template.vlsm.org
+# Site page for SP241
+link: [https://fawzakin.github.io/sp241-site](https://fawzakin.github.io/sp241-site)
 
-This is a GitHub Page template on GitHub.com.
-Fill free to clone/fork/hijack/whatever it!
-
+Also, the original readme for the original fork of this repo has a glaring misspell. It's "Feel", not "Fill".
