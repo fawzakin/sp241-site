@@ -4,7 +4,7 @@
 [&#x213C;](#idxXXX)<br id="idx000">
 # {{ site.title }}
 
-Welcome abroad! I am {{ site.author }}, {{ site.address }}
+Welcome abroad! I am {{ site.author }} from {{ site.address }}.
 
 Feel free to look around, I guess. All the important link will be put in the table of links!
 
